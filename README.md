@@ -10,7 +10,7 @@ Project's author:
    
 - Frontend: Nhat Thu
     
-    persional profile: 
+    persional profile: [My Profile](https://github.com/Nhatthuaunguyen)
     
 - Backend: Duc Trung
 
