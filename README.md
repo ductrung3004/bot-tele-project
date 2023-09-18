@@ -1,5 +1,5 @@
 
-# Telegram chat bot Bot
+# Telegram chat bot
 A brief description of what this project does and who it's for
 
 
